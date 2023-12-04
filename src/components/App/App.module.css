@@ -1,0 +1,14 @@
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    background-color: #FDF1E5;
+    padding: 40px 24px;
+    display: flex;  
+    justify-content: space-between;
+}
+.statsWrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    width: 180px;
+}

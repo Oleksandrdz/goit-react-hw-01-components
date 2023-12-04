@@ -1,0 +1,21 @@
+.transactionHistory{
+    text-align: center;
+    width: 450px;
+    border-collapse: collapse;
+
+}
+.head{
+    font-weight: 500;
+    font-size: 22px;
+
+}
+.title{
+    border-bottom: 1px solid #00ade1;
+    padding: 4px;
+}
+.colmn{
+    padding: 4px;
+}
+.stroke:nth-child(even) {
+    background-color: #00ace11a; /* Цвет фона четных строк */
+  }

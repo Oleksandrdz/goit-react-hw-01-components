@@ -1,0 +1,51 @@
+.profile{
+    width: 250px;
+    border: 1px solid #00ade1;
+    border-radius: 25px;
+    padding: 25px ;
+    background-color: #ffffff;
+ }
+
+ .description{
+    margin-bottom: 15px;
+ }
+ .userFoto{
+    width: 250px;
+    filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.5));
+    margin: 0 auto 10px;
+
+ }
+ .name{
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+margin-bottom: 8px;
+ }
+ .tagStyle{
+    text-align: center;
+    color: #00ade1;
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+ .locationStyle{
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+ }
+ .statsStyle{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    background-color: #00ace11a;
+    border-radius: 5px;
+    padding: 12px;
+    flex-wrap: wrap;
+    row-gap: 4px;
+    font-size: 14px;
+ }
+ .quantity{
+    margin-left: 6px;
+ }
